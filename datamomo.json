@@ -2,10 +2,10 @@
     "data": [
         {
 
-            "network": "admob",
+            "network": "max",
 
             "max_ban": "41520d44e3d06b49",
-            "max_int": "261588b3776ba31b",
+            "max_int": "a07cf16b9310a1c6",
 
             "is_app_key": "2386892364823",
             "is_ban": "2386892364823",
